@@ -2,3 +2,5 @@
 Console.WriteLine("Como estan?");
 string como = Console.ReadLine();
 Console.WriteLine("QUe bien.");
+
+Console.WriteLine("Cosas");
