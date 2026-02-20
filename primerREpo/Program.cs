@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Hola a todos");
+Console.WriteLine("Como estan?");
+string como = Console.ReadLine();
+Console.WriteLine("QUe bien.");
